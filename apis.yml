@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://blague.xyz/
 common:
+  - type: DomainSecurity
+    url: security/blague-xyz-domain-security.yml
   - type: Website
     url: https://blague.xyz/
   - type: PublicAPIsListing
