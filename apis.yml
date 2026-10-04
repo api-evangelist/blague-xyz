@@ -39,7 +39,6 @@ apis:
   - name: Blague.xyz
     description: "La plus grande API de Blagues FR/The biggest FR jokes API"
     humanURL: https://blague.xyz/
-    baseURL: https://blague.xyz/
     tags:
       - Development
     properties:
